@@ -43,10 +43,3 @@ If you would like to contribute to this project, please follow these steps:
 ## License
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
 
-## Tags
-- Shell
-- C
-- Operating System
-- [Add any other relevant tags]
-
-```
